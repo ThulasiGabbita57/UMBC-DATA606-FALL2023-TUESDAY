@@ -1,6 +1,6 @@
-# <center> Thulasi Gabbita </center> ![Profile Picture](costsmaryland.png)
+# <p align='center'> Thulasi Gabbita  ![Profile Picture](costsmaryland.png)</p>
 
-<center> Baltimore, MD, USA | +1 908-529-5339 | <a href="https://www.linkedin.com/in/thulasi-gabbita/">LinkedIn</a> | thulasigabbita57@gmail.com</center>
+<p align='center'> Baltimore, MD, USA | +1 908-529-5339 | <a href="https://www.linkedin.com/in/thulasi-gabbita/">LinkedIn</a> | thulasigabbita57@gmail.com </p>
 
 ### Summary
 Experienced software professional with 4+ years in CSharp, .Net, Python, PySpark, and Selenium. Proficient in PySpark and advanced Python concepts for data cleaning, processing, analysis, and visualization. Adept at feature engineering, leveraging machine learning algorithms, and model optimization, and seeking to apply expertise to drive impactful contributions in the industry.
@@ -8,7 +8,7 @@ Experienced software professional with 4+ years in CSharp, .Net, Python, PySpark
 ### Education
 **University of Maryland Baltimore County (UMBC), MD, USA**  
 *Masters of Professional Studies in Data Science &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp; GPA: 3.87/4.0 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; Dec 2023(expected)*  
-*Project Management Graduate Certificate &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; GPA: 4.0/4.0 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp; Dec 2023(expected)*  
+*Project Management Graduate Certificate &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp; GPA: 4.0/4.0 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp; Dec 2023(expected)*  
 **RVR&JC College of Engineering, AP, India**  
 *Bachelor of Technology in Electrical and Electronics Engineering&emsp;&emsp;&emsp;GPA: 9.36/10.0&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;May 2018*
 
