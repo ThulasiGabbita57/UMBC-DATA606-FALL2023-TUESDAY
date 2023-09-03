@@ -2,7 +2,7 @@
 
 <p align='center'> Baltimore, MD, USA | +1 908-529-5339 | <a href="https://www.linkedin.com/in/thulasi-gabbita/">LinkedIn</a> | thulasigabbita57@gmail.com </p>
 
-### Summary
+### Professional Summary
 Experienced software professional with 4+ years in CSharp, .Net, Python, PySpark, and Selenium. Proficient in PySpark and advanced Python concepts for data cleaning, processing, analysis, and visualization. Adept at feature engineering, leveraging machine learning algorithms, and model optimization, and seeking to apply expertise to drive impactful contributions in the industry.
 
 ### Education
