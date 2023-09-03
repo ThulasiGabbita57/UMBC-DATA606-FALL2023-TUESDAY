@@ -1,4 +1,4 @@
-# <center> Thulasi Gabbita </center> ![](costsmaryland.png)
+# <center> Thulasi Gabbita </center> ![Profile Picture](costsmaryland.png)
 
 <center> Baltimore, MD, USA | +1 908-529-5339 | <a href="https://www.linkedin.com/in/thulasi-gabbita/">LinkedIn</a> | thulasigabbita57@gmail.com</center>
 
